@@ -1,3 +1,3 @@
 console.log('config.js');
-console.log('version2git ');
+console.log('testing');
 console.log('version1');
